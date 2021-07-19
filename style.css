@@ -83,13 +83,16 @@ h1{
 .players-view{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: 70px 170px;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin: 70px 130px;
 }
 .player{
     width: 330px;
     height: 474px;
-    padding: 10px;
+    padding: 15px;
     overflow: hidden;
+    box-shadow: 10px 10px 10px 10px #c9c8c8;
 }
 
 img{
