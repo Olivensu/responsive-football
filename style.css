@@ -268,7 +268,7 @@ img{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         grid-row-gap: 30px;
-        margin:70px;
+        margin:70px 10px;
     }
 
 /* third section  */
