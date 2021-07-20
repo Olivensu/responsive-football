@@ -101,7 +101,7 @@ h1{
     transition: transform 0.5s;
 }
 .first-sec:hover .banner{
-    transform: rotate(4deg);
+    transform: rotate(2deg);
     transform-origin: top right;
 }
 
